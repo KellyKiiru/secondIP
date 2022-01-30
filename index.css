@@ -51,3 +51,12 @@ li{
     text-align: center;
     font-size: small;
 }
+.secondbuttons{
+    padding-top: 20px;
+    position: relative;
+    left: 35%;
+}
+#get, #learn{
+    padding: 10px;
+    font-size: medium;
+}
