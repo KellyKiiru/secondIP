@@ -36,9 +36,12 @@ li{
     padding-right: 10px;
 }
 #memberbutton{
-    padding-left: 10px;
-    border-radius: 5px;
-    border: 1px solid blue;
+    position: relative;
+    right: 10px;
+    background-color: rgb(52, 168, 235);
+    padding: 10px;
+    top: -9px;
+
 }
 .h1div{
     color: white;
@@ -54,9 +57,17 @@ li{
 .secondbuttons{
     padding-top: 20px;
     position: relative;
-    left: 35%;
+    left: 40%;
 }
 #get, #learn{
     padding: 10px;
     font-size: medium;
+}
+#get{
+    color: white;
+    background-color: rgb(52, 168, 235);
+}
+#learn{
+    color: white;
+    background-color: rgb(0, 0, 0, 0);
 }
