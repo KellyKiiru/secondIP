@@ -9,6 +9,7 @@
     background-attachment: fixed;
     height: 600px;
     width: 100%;
+    padding-top: 20px;
 }
 ul{
     display: flex;
@@ -26,4 +27,8 @@ li{
 }
 #home, #pricing, #product{
     padding-right: 10px;
+}
+.memberbutton{
+    color: rgb(241, 50, 75);
+    padding-right: 20px;
 }
