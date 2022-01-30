@@ -10,3 +10,12 @@
     height: 600px;
     width: 100%;
 }
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+li{
+    color: white;
+    list-style:none;
+}
