@@ -1,5 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .first-div{
-    background-image: url("project-images/contact-cover2.png");
-    background-repeat: no-repeat;
-    height: 100%;
+    background-image: url("project-images/hero-cover.3.png");
+    height: 400px;
 }
