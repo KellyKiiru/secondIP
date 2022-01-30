@@ -3,13 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+nav{
+    height: 900px;
+    overflow-x: hidden;
+}
 .firststyling{
-    background-size: cover;
+    background-size: contain;
     background-image: url("project-images/hero-cover.3.png");
     background-attachment: fixed;
     background-repeat: no-repeat;
     height: 800px;
-    width: 100%;
     padding-top: 20px;
 }
 ul{
@@ -66,6 +69,7 @@ li{
 #get{
     color: white;
     background-color: rgb(52, 168, 235);
+    border-radius: 20px;
 }
 #learn{
     color: white;
