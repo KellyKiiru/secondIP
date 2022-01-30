@@ -19,3 +19,11 @@ li{
     color: white;
     list-style:none;
 }
+.homelinks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#home, #pricing, #product{
+    padding-right: 10px;
+}
