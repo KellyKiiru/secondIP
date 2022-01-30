@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 .firststyling{
+    background-size: contain;
     background-image: url("project-images/hero-cover.3.png");
-    height: 400px;
+    background-attachment: fixed;
+    height: 600px;
     width: 100%;
 }
