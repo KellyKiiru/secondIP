@@ -73,8 +73,26 @@ li{
 }
 #learn{
     color: white;
-    background-color: rgb(0, 0, 0, 0);
+    background-color: rgba(212, 158, 158, 0);
 }
 .endofnav{
+    display: flex;;
+    flex-direction:row;
+    padding-top: 200px;
+    position: relative;
+    left: 25%;
+}
+#h31, #h32{
+    background-color: white;
+    padding-left: 10px;
+    padding-top:10px ;
+    padding-right:15px;
+    padding-bottom:10px ;
     display: flex;
+    flex-direction: column;
+    border: solid 1px;
+}
+#scrn1, #scrn2, #scrn3{
+    position: relative;
+    left: 2px;
 }
