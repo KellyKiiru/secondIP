@@ -102,6 +102,8 @@ li{
 .icons{
     display: flex;
     justify-content: center;
+    position: relative;
+    top: 30px;
 }
 h3 h4{
     color: black;
