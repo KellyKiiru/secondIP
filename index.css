@@ -72,11 +72,12 @@ li{
     background-color: rgba(212, 158, 158, 0);
 }
 .endofnav{
-    display: flex;;
+    display: flex;
     flex-direction:row;
     padding-top: 200px;
     position: relative;
     left: 25%;
+    
 }
 #h31, #h32{
     background-color: white;
@@ -88,7 +89,7 @@ li{
     flex-direction: column;
     border: solid 1px;
 }
-#scrn1, #scrn2, #scrn3{
+#scrn1, #scrn2{
     position: relative;
     left: -10px; 
     height: 50px;
