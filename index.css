@@ -153,6 +153,8 @@ button{
     flex-direction: column;
     width: max-content;
     text-align: center;
+    background-color: white;
+    border: 1px solid blue;
 }
 .free>h3{
     padding: 20px;
