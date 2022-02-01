@@ -118,3 +118,8 @@ h3 h4{
 #industryheading{
     font-size: x-large;
 }
+.users{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
