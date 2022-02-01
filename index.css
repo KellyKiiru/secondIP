@@ -88,6 +88,7 @@ li{
     display: flex;
     flex-direction: column;
     border: solid 1px;
+    box-shadow: 5px 5px 10px;
 }
 #scrn1, #scrn2{
     position: relative;
@@ -96,4 +97,5 @@ li{
 }
 #h33{
     background-color: rgb(52, 168, 235);
+    box-shadow: 5px 5px 10px;
 }
