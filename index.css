@@ -73,13 +73,14 @@ li{
 }
 .endofnav{
     display: flex;
+    justify-content: space-evenly;
     flex-direction:row;
     padding-top: 200px;
     position: relative;
     left: 25%;
     
 }
-#h31, #h32{
+.h31, .h32{
     background-color: white;
     padding-left: 10px;
     padding-top:10px ;
@@ -90,12 +91,7 @@ li{
     border: solid 1px;
     box-shadow: 5px 5px 10px;
 }
-#scrn1, #scrn2{
-    position: relative;
-    left: -10px; 
-    height: 50px;
-}
-#h33{
+.h33{
     background-color: rgb(52, 168, 235);
     box-shadow: 5px 5px 10px;
 }
