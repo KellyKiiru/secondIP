@@ -155,6 +155,8 @@ h3 h4{
     background-color: blue;
     padding: 20px;
     flex-direction: row;
+    width: 65%;
+    right: -200px;
 }
 .newsletter>p{
     font-size: large;
