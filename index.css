@@ -151,11 +151,15 @@ h3 h4{
     position: relative;
     top: 400px;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
+    justify-content:;
     background-color:blue;
     padding: 20px;
     flex-direction: row;
-
+}
+.newsletter>p{
+    display: flex;
+    align-items:center;
 }
 button{
     background-color: rgb(89, 187, 233);
