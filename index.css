@@ -8,7 +8,6 @@ nav{
     overflow-x: hidden;
 }
 .firststyling{
-
     height: 800px;
     padding-top: 20px;
 }
@@ -91,5 +90,6 @@ li{
 }
 #scrn1, #scrn2, #scrn3{
     position: relative;
-    left: 2px;
+    left: -10px;
+    height: 50px;
 }
