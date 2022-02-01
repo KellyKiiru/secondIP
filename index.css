@@ -124,4 +124,9 @@ h3 h4{
     flex-direction: row;
     position: relative;
     top: 30px;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#user1,#user2,#user3{
+    background-color: white;
 }
