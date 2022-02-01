@@ -147,3 +147,12 @@ h3 h4{
 #vector{
     max-height: 50px;;
 }
+.newsletter{
+    position: relative;
+    top: 400px;
+    display: flex;
+    background-color:blue;
+    padding: 20px;
+    flex-direction: row;
+
+}
