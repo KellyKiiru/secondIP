@@ -3,17 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+head{
+    background-size: cover;
+    background-attachment:cover;
+    background-repeat: no-repeat;
+    }
 .h1div{
     color: white;
     font-weight: 900;
     font-size: xx-large;
     text-align: center;
-    padding-top: 200px;
+    padding-top: px;
 }
 #firstp{
     text-align: center;
     font-size: small;
+    color: black;
 }
 .secondbuttons{
     padding-top: 20px;
@@ -87,7 +92,7 @@ h3 h4{
     position: relative;
     top: 30px;
     justify-content: center;
-    justify-content: space-evenly;
+    justify-content:space-evenly;
 }
 #user1,#user2,#user3{
     background-color: white;
@@ -138,4 +143,18 @@ button{
 #pricing{
    padding-top: 500px;
    font-size: xx-large;
+}
+.tiles{
+    position: relative;
+    top: 150px;
+}
+.free{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    text-align: center;
+}
+.free>h3{
+    padding: 20px;
+    text-align: center;
 }
