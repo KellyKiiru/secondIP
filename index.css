@@ -168,7 +168,7 @@ button{
     text-align: center;
 }
 #standard{
-    
+
     border-radius: 10px;
     color: white;
     display: flex;
@@ -198,4 +198,8 @@ button{
 }
 ul{
     list-style: none;
+}
+.worldmap{
+    background-color: rgb(31, 31, 65);
+    background-image: url("");
 }
