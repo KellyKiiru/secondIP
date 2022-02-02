@@ -151,7 +151,7 @@ button{
     position: relative;
     top: 150px;
     padding-bottom:100px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .free{
     border-radius: 10px;
@@ -205,5 +205,5 @@ ul{
     width: 100%;
     background-color: rgb(31, 31, 65);
     background-image: url("");
-    padding: 200px;
+    padding: 300px;
 }
