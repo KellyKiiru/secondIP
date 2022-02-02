@@ -208,6 +208,7 @@ ul{
     padding: 300px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     color: white;
+    position: relative;
 }
