@@ -152,6 +152,7 @@ button{
     top: 150px;
 }
 .free{
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
     width: max-content;
@@ -165,6 +166,7 @@ button{
     text-align: center;
 }
 .standard{
+    border-radius: 10px;
     height: ;
     color: white;
     display: flex;
