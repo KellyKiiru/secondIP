@@ -206,8 +206,8 @@ ul{
     background-color: rgb(31, 31, 65);
     background-image: url("");
     padding: 300px;
+    padding-top: 100px;
     display: flex;
     justify-content:space-between;
     color: white;
-    position: relative;
 }
