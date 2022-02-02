@@ -172,7 +172,6 @@ button{
     width: max-content;
     text-align: center;
     background-color: rgb(1, 13, 56);
-    border: 1px solid rgb(0, 217, 255);
 }
 .standard h3{
     text-transform: uppercase;
