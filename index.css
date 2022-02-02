@@ -150,7 +150,8 @@ button{
     justify-content:center ;
     position: relative;
     top: 150px;
-    padding-bottom:100px; ;
+    padding-bottom:100px;
+    margin-bottom: 100px;
 }
 .free{
     border-radius: 10px;
@@ -204,4 +205,5 @@ ul{
     width: 100%;
     background-color: rgb(31, 31, 65);
     background-image: url("");
+    padding: 200px;
 }
