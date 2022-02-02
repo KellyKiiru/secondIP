@@ -179,6 +179,7 @@ button{
     text-align: center;
 }
 .premium{
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
     width: max-content;
