@@ -200,6 +200,8 @@ ul{
     list-style: none;
 }
 .worldmap{
+    height: 100%;
+    width: 100%;
     background-color: rgb(31, 31, 65);
     background-image: url("");
 }
