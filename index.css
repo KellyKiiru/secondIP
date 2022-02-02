@@ -206,4 +206,8 @@ ul{
     background-color: rgb(31, 31, 65);
     background-image: url("");
     padding: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
 }
