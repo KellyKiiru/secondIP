@@ -159,15 +159,15 @@ button{
     text-align: center;
     background-color: white;
     border: 1px solid rgb(0, 217, 255);
+    padding-bottom: 30px;
 }
 .free h3{
     text-transform: uppercase;
     padding: 20px;
     text-align: center;
 }
-.standard{
+#standard{
     border-radius: 10px;
-    height: ;
     color: white;
     display: flex;
     flex-direction: column;
@@ -175,7 +175,7 @@ button{
     text-align: center;
     background-color: rgb(1, 13, 56);
 }
-.standard h3{
+#standard h3{
     text-transform: uppercase;
     padding: 20px;
     text-align: center;
