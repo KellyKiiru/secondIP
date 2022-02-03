@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+main{
+    background-image: url('.//project-images/hero-cover.3.png');
+    background-repeat: ;
+}
 .h1div{
     color: white;
     font-weight: 900;
