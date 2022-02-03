@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+nav{
+    display: flex;
+    
+}
 main{
     background-image: url('.//project-images/hero-cover.3.png');
     background-repeat: no-repeat;
