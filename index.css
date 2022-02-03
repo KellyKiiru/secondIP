@@ -5,7 +5,8 @@
 }
 main{
     background-image: url('.//project-images/hero-cover.3.png');
-    background-repeat: ;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 .h1div{
     color: white;
