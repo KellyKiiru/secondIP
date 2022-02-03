@@ -5,7 +5,7 @@
 }
 nav{
     display: flex;
-    
+    justify-content: space-evenly;
 }
 main{
     background-image: url('.//project-images/hero-cover.3.png');
