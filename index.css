@@ -7,6 +7,10 @@ nav{
     display: flex;
     justify-content: space-evenly;
 }
+#ulnav{
+    display: flex;
+    justify-content: space-between;
+}
 main{
     background-image: url('.//project-images/hero-cover.3.png');
     background-repeat: no-repeat;
