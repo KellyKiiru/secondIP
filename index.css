@@ -11,6 +11,10 @@ nav{
     display: flex;
     justify-content: space-between;
 }
+nav ul span{
+    display: flex;
+    flex-direction: row;
+}
 main{
     background-image: url('.//project-images/hero-cover.3.png');
     background-repeat: no-repeat;
