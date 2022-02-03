@@ -7,7 +7,7 @@ nav{
     display: flex;
     justify-content: space-evenly;
 }
-#ulnav{
+.ulnav{
     display: flex;
     justify-content: space-between;
 }
