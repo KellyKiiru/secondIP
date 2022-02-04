@@ -239,5 +239,11 @@ ul{
 }
 .footerdiv{
     display: flex;
-    
+    justify-content: space-between;
+}
+.footerdiv ul li{
+    padding: 10px;
+}
+.footerdiv h4{
+    padding: 10px;
 }
