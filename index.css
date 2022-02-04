@@ -12,6 +12,9 @@ nav{
 #brandname{
     color: white;
 }
+#brandname ul span{
+    color: white;
+}
 .ulnav{
     display: flex;
     justify-content: space-between;
