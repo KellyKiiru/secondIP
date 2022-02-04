@@ -249,6 +249,7 @@ ul{
 }
 #footericons{
     display: flex;
+    justify-content: flex-end;
 }
 .footernav{
     display: flex;
