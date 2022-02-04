@@ -16,6 +16,9 @@ nav{
     display: flex;
     justify-content: space-between;
 }
+#become{
+    color: white;
+}
 nav ul span{
     display: flex;
     flex-direction: row;
