@@ -237,3 +237,7 @@ ul{
     color: white;
     margin-bottom: 600px;
 }
+.footerdiv{
+    display: flex;
+    
+}
