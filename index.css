@@ -12,8 +12,12 @@ nav{
 #brandname{
     color: white;
 }
-#brandname ul span{
+nav ul{
     color: white;
+    justify-content: space-between;
+    padding: 10px;
+    display: flex;
+}
 }
 .ulnav{
     display: flex;
@@ -38,7 +42,7 @@ main{
     font-weight: 900;
     font-size: xx-large;
     text-align: center;
-    padding-top: px;
+    /* padding-top: px; */
 }
 #firstp{
     position: relative;
