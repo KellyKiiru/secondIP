@@ -246,7 +246,7 @@ ul{
 .worldmap1{
     display: flex;
     justify-content: flex-start;
-    flex-direction: row;
+    flex-direction: column;
 }
 #worldmaph3{
     padding: 10px;
