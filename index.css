@@ -13,10 +13,12 @@ nav{
     color: white;
 }
 nav ul{
+    font-weight:700;
     color: white;
     justify-content: space-between;
     padding: 10px;
     display: flex;
+    
 }
 }
 .ulnav{
